@@ -1,5 +1,5 @@
 
-<h1 align="center">🌌 Caio Bueno — Desenvolvedor Futurista</h1>
+<h1 align="center">🌌 Caio Rodrigues da Silva Bueno — Desenvolvedor Futurista</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech-Futurista-00ffff?style=for-the-badge&logo=github" />
